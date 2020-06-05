@@ -1,5 +1,7 @@
 **项目预览**
+<br>
 ![story-demo.gif](./story-demo.gif)
+<br>
 **项目功能**
 
 1. 使用vue构造stories.js
